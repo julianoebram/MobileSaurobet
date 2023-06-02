@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MobileSaurobet/static/css/main.f16e55f0.css",
+    "main.js": "/MobileSaurobet/static/js/main.f69e7de0.js",
+    "static/media/frame-1410103055@3x.png": "/MobileSaurobet/static/media/frame-1410103055@3x.34655fed3ddd283df818.png",
+    "static/media/frame-14101030511@3x.png": "/MobileSaurobet/static/media/frame-14101030511@3x.bb77c253055f23d53a28.png",
+    "static/media/frame-1410103051@3x.png": "/MobileSaurobet/static/media/frame-1410103051@3x.8911c2ece144e68767c5.png",
+    "static/media/frame-14101030551@3x.png": "/MobileSaurobet/static/media/frame-14101030551@3x.33fdb65b62cac448fc0c.png",
+    "index.html": "/MobileSaurobet/index.html",
+    "main.f16e55f0.css.map": "/MobileSaurobet/static/css/main.f16e55f0.css.map",
+    "main.f69e7de0.js.map": "/MobileSaurobet/static/js/main.f69e7de0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f16e55f0.css",
+    "static/js/main.f69e7de0.js"
+  ]
+}
